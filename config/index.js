@@ -56,11 +56,11 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
+      url: "https://www.linkedin.com/in/ekovegeance/",
     },
     {
       name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
+      url: "https://ekovegeance.medium.com/",
     },
     {
       name: "Github",
@@ -69,7 +69,7 @@ module.exports = {
     },
     {
       name: "Behance",
-      url: "https://www.behance.net/konstanmnster",
+      url: "https://www.behance.net/ekovegeance",
     },
   ],
 
